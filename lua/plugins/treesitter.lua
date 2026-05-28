@@ -55,6 +55,7 @@ return {
       "csv",
       "zig",
       "rust",
+      "go",
     },
   },
   ---@param opts lazyvim.TSConfig
