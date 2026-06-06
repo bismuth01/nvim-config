@@ -30,7 +30,7 @@ return {
       markdown = { "prettier" },
       graphql = { "prettier" },
       lua = { "stylua" },
-      python = { "ruff" },
+      python = { "black" },
       go = { "goimports" },
     },
     format_on_save = {
